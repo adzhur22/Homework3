@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c548be1f-bc04-457c-b834-636f1f8ebc26" name="Changes" comment="The first task done">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart1/Index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart1/Index2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart1/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart1/Index2.html" beforeDir="false" afterPath="$PROJECT_DIR$/cart1/Index2.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +36,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "DefaultHtmlFileTemplate": "HTML File",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -61,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1657653461573</updated>
-      <workItem from="1657653464397" duration="11525000" />
+      <workItem from="1657653464397" duration="11856000" />
     </task>
+    <task id="LOCAL-00001" summary="The first task done">
+      <created>1657665575494</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1657665575494</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
